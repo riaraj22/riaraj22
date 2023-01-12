@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ria Raj</h1>
 <h3 align="center">Data Enthusiast (Learning Business Analytics @ IIM-I) with 6.5years of experience in IT</h3>
-<img align="right" width=200 alt="coding" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mpcdywp73h3fnd6s7ygguych3239xp0beorao008&rid=giphy.gif&ct=g"
+<img align="right" width=300 alt="coding" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mpcdywp73h3fnd6s7ygguych3239xp0beorao008&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riaraj22&label=Profile%20views&color=0e75b6&style=flat" alt="riaraj22" /> </p>
 
@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/riaraj22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="riaraj22" height="30" width="40" /></a>
+<a href="https://twitter.com/riaraj22" target="blank"><img align="center" src="https://tse1.mm.bing.net/th?id=OIP.mjoG94zAqNefzlni3m2hRgHaHa&pid=Api&rs=1&c=1&qlt=95&w=113&h=113" alt="riaraj22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ria-raj-763940a2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ria-raj-763940a2" height="30" width="40" /></a>
 <a href="https://kaggle.com/riaraj22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="riaraj22" height="30" width="40" /></a>
 <a href="https://fb.com/ria raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ria raj" height="30" width="40" /></a>
