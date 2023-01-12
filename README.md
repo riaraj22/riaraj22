@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection**
 
-- 🌱 I’m currently learning **Python, SQL, Tableau, Business Analytics**
+- 🌱 I’m currently learning **Integrated Program in Business Analytics**
 
-- 💬 Ask me about **Data Analysis, Business Analytics**
+- 💬 Ask me about **Python, SQL, Tableau, Business Analytics**
 
 - 📫 How to reach me **ria.aphro.raj22@gmail.com**
 
