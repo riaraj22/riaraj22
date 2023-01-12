@@ -27,8 +27,4 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://tse2.mm.bing.net/th?id=OIP.w9AIOO6Cfup6aToV1E-dEQHaIr&pid=Api&P=0" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://tse1.mm.bing.net/th?id=OIP.Kzl1-Ilm6aZla2FhqIOIVgHaHa&pid=Api&P=0" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://tse4.mm.bing.net/th?id=OIP.DID7M5LN6--mf7sXAKVZ-gHaER&pid=Api&P=0" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://tse3.mm.bing.net/th?id=OIP.CYpqc79M1jl94xw__TzDiQHaHa&pid=Api&P=0" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riaraj22&show_icons=true&locale=en&layout=compact" alt="riaraj22" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riaraj22&show_icons=true&locale=en" alt="riaraj22" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riaraj22&" alt="riaraj22" /></p>
