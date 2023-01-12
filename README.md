@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ria Raj</h1>
 <h3 align="center">Data Enthusiast (Learning Business Analytics @ IIM-I) with 6.5years of experience in IT</h3>
-<img align="right" width=400 alt="coding" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"
+<img align="right" width=400 alt="coding" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47mpcdywp73h3fnd6s7ygguych3239xp0beorao008&rid=giphy.gif&ct=g"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riaraj22&label=Profile%20views&color=0e75b6&style=flat" alt="riaraj22" /> </p>
 
