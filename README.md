@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ria Raj</h1>
-<h3 align="center">Data Enthusiast (Learning Business Analytics @ IIM-I) Carry 6.5years of experience in IT</h3>
+<h3 align="center">Data Enthusiast (Learning Business Analytics @ IIM-I) with 6.5years of experience in IT</h3>
 <img align="right" width=400 alt="coding" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riaraj22&label=Profile%20views&color=0e75b6&style=flat" alt="riaraj22" /> </p>
