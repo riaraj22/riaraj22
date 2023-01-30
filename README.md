@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Integrated Program in Business Analytics**
 
-- 💬 Ask me about **Python, SQL, Tableau, Business Analytics, Data Analysis**
+- 💬 Ask me about * Knowledge on SQL,R Studio,ML in Python,NLP,Power BI,Tableau,Hadoop**
 
 - 📫 How to reach me **ria.aphro.raj22@gmail.com**
 
